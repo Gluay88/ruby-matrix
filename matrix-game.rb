@@ -1,9 +1,3 @@
-# ruby-matrix
-Please copy this code in your terminal..
-And have fun!! - Gluay
-
-CODE starts here..
-
 def typing(string)
   string.each_char do |char|
     print char
